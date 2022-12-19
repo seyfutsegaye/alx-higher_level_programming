@@ -1,0 +1,1 @@
+Phyton tasks on exeption 
